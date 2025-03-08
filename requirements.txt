@@ -1,0 +1,7 @@
+streamlit
+ffmpeg-python
+openai-whisper
+transformers
+langid
+speechrecognition
+pydub
